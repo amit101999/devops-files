@@ -1,0 +1,5 @@
+asd
+adas
+dasdd asd as
+line count is : /home/amit/Downloads/linux-project/shell/second.txt 
+line count is : 4

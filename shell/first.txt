@@ -1,0 +1,10 @@
+ello
+asd a
+ad
+asd
+sa d
+
+
+a dsad asd
+line count is : /home/amit/Downloads/linux-project/shell/first.txt 
+line count is : 9
